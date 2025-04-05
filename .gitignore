@@ -1,5 +1,5 @@
 *.mkv
 */*.mkv
-
+*/*/output
 *.mp4
 */*.mp4
